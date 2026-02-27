@@ -1,0 +1,6 @@
+Loan ID,Customer ID,Loan Status,Current Loan Amount,Term,Credit Score,Annual Income,Years in current job,Home Ownership,Purpose,Monthly Debt,Years of Credit History,Months since last delinquent,Number of Open Accounts,Number of Credit Problems,Current Credit Balance,Maximum Open Credit,Bankruptcies,Tax Liens
+14dd8831-6af5-400b-83ec-68e61888a048,981165ec-3274-42f5-a3b4-d104041a9ca9,Fully Paid,445412,Short Term,709,1167493,8 years,Home Mortgage,Home Improvements,5214.74,17.2,NA,6,1,228190,416746,1,0
+4771cc26-131a-45db-b5aa-537ea4ba5342,2de017a3-2e01-49cb-a581-08169e83be29,Fully Paid,262328,Short Term,,,10+ years,Home Mortgage,Debt Consolidation,33295.98,21.1,8,35,0,229976,850784,0,0
+4eed4e6a-aa2f-4c91-8651-ce984ee8fb26,5efb2b2b-bf11-4dfd-a572-3761a2694725,Fully Paid,99999999,Short Term,741,2231892,8 years,Own Home,Debt Consolidation,29200.53,14.9,29,18,1,297996,750090,0,0
+77598f7b-32e7-4e3b-a6e5-06ba0d98fe8a,e777faab-98ae-45af-9a86-7ce5b33b1011,Fully Paid,347666,Long Term,721,806949,3 years,Own Home,Debt Consolidation,8741.9,12,NA,9,0,256329,386958,0,0
+d4062e70-befa-4995-8643-a0de73938182,81536ad9-5ccf-4eb8-befb-47a4d608658e,Fully Paid,176220,Short Term,,,5 years,Rent,Debt Consolidation,20639.7,6.1,NA,15,0,253460,427174,0,0
