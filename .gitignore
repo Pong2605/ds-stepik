@@ -1,3 +1,6 @@
 .conda
 .pickle
 *.wav
+*deep_learning_2026/SO_vectors_200.bin
+*deep_learning_2026/train.tsv
+*deep_learning_2026/validation.tsv
