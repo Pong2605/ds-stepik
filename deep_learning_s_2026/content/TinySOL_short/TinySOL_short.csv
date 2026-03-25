@@ -1,0 +1,16 @@
+Path,Fold,Family,Instrument (abbr.),Instrument (in full),Technique (abbr.),Technique (in full),Pitch,Pitch ID,Dynamics,Dynamics ID,Instance ID,String ID (if applicable),Needed digital retuning
+TinySOL_short/Strings/Violoncello/ordinario/Vc-ord-A5-pp-1c-N.wav,0,Strings,Vc,Cello,ord,ordinario,A5,81,pp,0,0,1.0,False
+TinySOL_short/Strings/Violoncello/ordinario/Vc-ord-A5-mf-1c-N.wav,3,Strings,Vc,Cello,ord,ordinario,A5,81,mf,2,0,1.0,False
+TinySOL_short/Strings/Violoncello/ordinario/Vc-ord-A5-ff-1c-T13d.wav,4,Strings,Vc,Cello,ord,ordinario,A5,81,ff,4,0,1.0,True
+TinySOL_short/Strings/Violin/ordinario/Vn-ord-A5-pp-1c-N.wav,4,Strings,Vn,Violin,ord,ordinario,A5,81,pp,0,0,1.0,False
+TinySOL_short/Strings/Violin/ordinario/Vn-ord-A5-pp-2c-N.wav,4,Strings,Vn,Violin,ord,ordinario,A5,81,pp,0,1,2.0,False
+TinySOL_short/Strings/Violin/ordinario/Vn-ord-A5-pp-3c-N.wav,2,Strings,Vn,Violin,ord,ordinario,A5,81,pp,0,2,3.0,False
+TinySOL_short/Strings/Violin/ordinario/Vn-ord-A5-mf-1c-N.wav,1,Strings,Vn,Violin,ord,ordinario,A5,81,mf,2,0,1.0,False
+TinySOL_short/Strings/Violin/ordinario/Vn-ord-A5-mf-2c-N.wav,3,Strings,Vn,Violin,ord,ordinario,A5,81,mf,2,1,2.0,False
+TinySOL_short/Strings/Violin/ordinario/Vn-ord-A5-mf-3c-N.wav,1,Strings,Vn,Violin,ord,ordinario,A5,81,mf,2,2,3.0,False
+TinySOL_short/Strings/Violin/ordinario/Vn-ord-A5-ff-1c-N.wav,3,Strings,Vn,Violin,ord,ordinario,A5,81,ff,4,0,1.0,False
+TinySOL_short/Strings/Violin/ordinario/Vn-ord-A5-ff-2c-N.wav,2,Strings,Vn,Violin,ord,ordinario,A5,81,ff,4,1,2.0,False
+TinySOL_short/Strings/Violin/ordinario/Vn-ord-A5-ff-3c-N.wav,4,Strings,Vn,Violin,ord,ordinario,A5,81,ff,4,2,3.0,False
+TinySOL_short/Winds/Flute/ordinario/Fl-ord-A5-pp-N-N.wav,2,Winds,Fl,Flute,ord,ordinario,A5,81,pp,0,0,,False
+TinySOL_short/Winds/Flute/ordinario/Fl-ord-A5-mf-N-T11d.wav,0,Winds,Fl,Flute,ord,ordinario,A5,81,mf,2,0,,True
+TinySOL_short/Winds/Flute/ordinario/Fl-ord-A5-ff-N-T22d.wav,2,Winds,Fl,Flute,ord,ordinario,A5,81,ff,4,0,,True
