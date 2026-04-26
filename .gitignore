@@ -1,7 +1,114 @@
 .conda
 .pickle
 *.wav
+*.jpg
+*.zip
+*.gz
+*.tar.gz
+*.pt
+*.pth
+*.sav)
 *deep_learning_2026/SO_vectors_200.bin
 *deep_learning_2026/train.tsv
 *deep_learning_2026/validation.tsv
 *MNIST/
+
+# ============================================
+# КРИТИЧНО: файлы > 95 МБ (GitHub не пропустит)
+# ============================================
+01_nlp_embeddings/content/SO_vectors_200.bin
+01_nlp_embeddings/content/train.tsv
+01_nlp_embeddings/content/validation.tsv
+08_chatgpt_instruction_tuning_RAG/content/file.csv
+06_regularization_optimization/data/cifar-10-python.tar.gz
+07_cnn_and_fine_tuning/data/cifar-10-python.tar.gz
+07_cnn_and_fine_tuning/models/best_resnet_aug_custom_1_no_thr_sampler_off_weights_off_mixup_off_bs_128.pth
+07_cnn_and_fine_tuning/models/best_resnet_aug_custom_1_no_thr_sampler_off_weights_off_mixup_on_bs_128.pth
+02_linear_models/train.csv
+3_SSL/AudioMNIST/.git/objects/pack/tmp_pack_*
+3_SSL/AudioMNIST/.git/
+
+# Большие: файлы 30-45 МБ
+**/data/cifar-10-batches-py/data_batch_*
+**/data/cifar-10-batches-py/test_batch
+**/data/MNIST/raw/train-images-idx3-ubyte
+**/data/MNIST/raw/t10k-images-idx3-ubyte
+**/MNIST/raw/train-images-idx3-ubyte
+**/MNIST/raw/t10k-images-idx3-ubyte
+
+# ============================================
+# ДАННЫЕ И ДАТАСЕТЫ (большие)
+# ============================================
+*.bin
+*.tsv
+
+# ============================================
+# ВЕСА МОДЕЛЕЙ (.pt, .pth, .sav)
+# ============================================
+**/models/*.pt
+**/models/*.pth
+3_SSL/models/*.pt
+3_SSL/rec/*.pt
+*.sav
+
+# ============================================
+# МОДЕЛИ И ЧЕКПОИНТЫ
+# ============================================
+05_transformer/gdrive/
+05_transformer/models/
+**/model_*
+*.model
+*.ckpt
+*.h5
+*.pb
+*.pth
+*.pt
+
+# ============================================
+# CATBOOST ВРЕМЕННЫЕ ФАЙЛЫ
+# ============================================
+**/catboost_info/
+
+# ============================================
+# ЛОГИ TENSORBOARD
+# ============================================
+**/runs/
+**/events.out.tfevents.*
+*.tfevents.*
+
+
+# Странные файлы без расширения (возможно бинарные)
+**/LM
+**/Machine
+**/Transformer
+**/Лекция
+**/Скринкаст
+
+# ============================================
+# JUPYTER
+# ============================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ============================================
+# PYTHON
+# ============================================
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ============================================
+# IDE И СИСТЕМНЫЕ
+# ============================================
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
