@@ -27,6 +27,7 @@
 02_linear_models/train.csv
 3_SSL/AudioMNIST/.git/objects/pack/tmp_pack_*
 3_SSL/AudioMNIST/.git/
+08_chatgpt_instruction_tuning_RAG/content/file.csv
 
 # Большие: файлы 30-45 МБ
 **/data/cifar-10-batches-py/data_batch_*
