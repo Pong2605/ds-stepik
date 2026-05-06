@@ -9,6 +9,7 @@
 *.pth
 *.sav
 *.csv
+# *.bmp
 *deep_learning_2026/SO_vectors_200.bin
 *deep_learning_2026/train.tsv
 *deep_learning_2026/validation.tsv
@@ -29,6 +30,8 @@
 3_SSL/AudioMNIST/.git/objects/pack/tmp_pack_*
 3_SSL/AudioMNIST/.git/
 08_chatgpt_instruction_tuning_RAG/content/file.csv
+*/08_semantic_segmentation/content/
+*/08_semantic_segmentation/rec/content/
 
 # Большие: файлы 30-45 МБ
 **/data/cifar-10-batches-py/data_batch_*
